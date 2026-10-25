@@ -1,7 +1,7 @@
 ### Hi, I'm Elsa  
 
 🎓 Informatics Graduate  
-🎓 Pursuing a Master's Degree in Information Systems Management in the Field of Defence at the Academy of the Armed Forces, Albania.
+🎓 Pursuing a Master's of Science Degree in Information Systems Management in the Field of Defence at the Academy of the Armed Forces, Albania.
 
  Interested in web development, information systems, and technology.
  Tech Stack: HTML · CSS · JavaScript · React · Node.js
